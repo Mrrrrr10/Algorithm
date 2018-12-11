@@ -7,7 +7,6 @@
 2. [选择排序算法](https://github.com/Mrrrrr10/Algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9B%86%E5%90%88/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.py)
 :point_right:
 [相关博客](https://www.nolookblog.com/blog/46)
-3. [递归]
-(https://github.com/Mrrrrr10/Algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9B%86%E5%90%88/%E9%80%92%E5%BD%92.py)
+3. [递归](https://github.com/Mrrrrr10/Algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9B%86%E5%90%88/%E9%80%92%E5%BD%92.py)
 :point_right:
 [相关博客](https://www.nolookblog.com/blog/48)
