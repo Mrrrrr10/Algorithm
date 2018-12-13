@@ -13,3 +13,6 @@
 4. [D&C策略](https://github.com/Mrrrrr10/Algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9B%86%E5%90%88/D%26C%E7%AD%96%E7%95%A5.py)
 :point_right:
 [相关博客](https://www.nolookblog.com/blog/49)
+4. [快速排序算法](https://github.com/Mrrrrr10/Algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9B%86%E5%90%88/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.py)
+:point_right:
+[相关博客](https://www.nolookblog.com/blog/51)
