@@ -19,3 +19,6 @@
 5. [广度优先搜索算法](https://github.com/Mrrrrr10/Algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9B%86%E5%90%88/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95.py)
 :point_right:
 [相关博客](https://www.nolookblog.com/blog/56)
+6. [装饰器](https://github.com/Mrrrrr10/Algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9B%86%E5%90%88/%E8%A3%85%E9%A5%B0%E5%99%A8.py)
+:point_right:
+[相关博客](https://nolookblog.com/blog/62)
